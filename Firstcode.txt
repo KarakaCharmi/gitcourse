@@ -1,7 +1,4 @@
 Hello world!!!
 take input from user
-<<<<<<< HEAD
 Hi i am charmi
-=======
 I'm poojitha
->>>>>>> d8b934b4af9bb028d1541dcf0f0c4cef499d8e96
